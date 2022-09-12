@@ -1,0 +1,49 @@
+.header-blog {
+    color: #0A2640;
+}
+
+.menu__login.btn-blog{
+    border: 2px #0A2640 solid;
+}
+.blog__container{
+    max-width: 1200px;
+}
+.blog__category{
+    font-size: 16px;
+    color: #0A2640;
+    font-weight: 700;
+}
+
+.blog__info time{
+    color: #777777;
+}
+
+.blog__row.blog-section{
+    align-items: center;
+}
+
+.blog__body{
+    margin-top: 7px;
+    font-family: 'Manrope';
+max-width: 550px;
+font-weight: 400;
+font-size: 48px;
+line-height: 72px;
+}
+
+.blog__info{
+    display: flex;
+    gap: 12px;
+}
+
+.blog__person{
+    margin-top: 18px;
+    display: flex;
+    align-items: center;
+    gap: 14px;
+}
+.blog__line{
+    height: 2px;
+    width: 100%;
+    background: #0A2640;
+}
